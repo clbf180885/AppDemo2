@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4VQXiqzbKHn2gz6qx2txr+2YFIOoz+3m0cOu8g+2j1H7phBPpPxAs6EttmAv86JOKn1lm3dmGjYzjXXPa2qrSg==",
+  "success": true,
+  "projectFilePath": "C:\\gitlab\\AppDemo2\\AppDemo.iOS\\AppDemo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luis\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
